@@ -6,7 +6,12 @@ public class Testcase {
 		// TODO Auto-generated method stub
      System.out.println("kinf");
 		
+     
 		
+		for (int i = 0; i < 100; i++) {
+			System.out.println(i);
+			
+		}
 	}
 
 }
